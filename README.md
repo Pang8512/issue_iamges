@@ -1,1 +1,1 @@
-# issue_iamges
+# issue_images
